@@ -1,0 +1,23 @@
+/* styles.css file */
+
+/* Use a custom font for the whole page */
+* {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+/* Center the heading and make it blue */
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+/* Make the puzzle paragraph bigger and bold */
+#puzzle {
+  color: blue;
+  font-weight: bold;
+}
+
+/* Make the status paragraph green */
+#status {
+  color: green;
+}
